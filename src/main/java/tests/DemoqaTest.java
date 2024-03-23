@@ -1,6 +1,5 @@
 package tests;
 import org.example.drivers.Driver;
-import org.example.utils.PropertyManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
