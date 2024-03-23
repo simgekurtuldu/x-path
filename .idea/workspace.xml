@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf1fa06f-9d80-4d7e-b05b-770e2fdaa13b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/drivers/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/drivers/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/PropertyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tests/DemoqaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tests/DemoqaWebtablesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
+    <list default="true" id="bf1fa06f-9d80-4d7e-b05b-770e2fdaa13b" name="Changes" comment="add DemoqaWebtablesTest class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/DemoqaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/DemoqaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +42,7 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C:/projects/x-path/src/main/resources/testng.xml">
+  <component name="RunManager" selected="TestNG.DemoqaTest">
     <configuration name="C:/projects/x-path/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="x-path" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
@@ -101,9 +89,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DemoqaTest" />
         <item itemvalue="TestNG.C:/projects/x-path/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.DemoqaWebtablesTest" />
-        <item itemvalue="TestNG.DemoqaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -116,6 +104,39 @@
       <option name="presentableId" value="Default" />
       <updated>1711114798310</updated>
     </task>
+    <task id="LOCAL-00001" summary="add DemeqaTest class">
+      <option name="closed" value="true" />
+      <created>1711173083640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711173083641</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add DemoqaWebtablesTest class">
+      <option name="closed" value="true" />
+      <created>1711173239353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711173239353</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add DemeqaTest class" />
+    <MESSAGE value="add DemoqaWebtablesTest class" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DemoqaWebtablesTest class" />
   </component>
 </project>
